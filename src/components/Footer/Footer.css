@@ -1,0 +1,54 @@
+/************ Footer Css ************/
+.footer {
+    padding: 0 0 30px 0;
+    background-color: #000;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.message-bx {
+    background: #FFFFFF;
+    border-radius: 55px;
+    color: #121212;
+    padding: 25px 50px;
+    margin-bottom: 80px;
+    margin-top: -122px;
+
+
+
+}
+
+.message-bx-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.message-bx h3 {
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    line-height: 1.2em;
+    text-align: center;
+}
+
+
+.footerIMGD {
+    background-color: white;
+    width: 27%;
+}
+
+.footerIMG {
+    width: 100%;
+}
+
+
+
+.footer p {
+    font-weight: 400;
+    font-size: 14px;
+    color: #B8B8B8;
+    letter-spacing: 0.5px;
+    margin-top: 20px;
+}
