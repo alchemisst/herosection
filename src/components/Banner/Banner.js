@@ -68,7 +68,7 @@ const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Deepanshu`} <span className="txt-rotate" ><span className="wrap">{text}</span></span></h1>
-                  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                  <p>Tech enthusiast with a genuine passion for learning. Always excited to dive into the latest tech trends and explore new possibilities. Eager to embrace the ever-evolving world of technology with a laid-back and inquisitive mindset.</p>
                   <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility> 
